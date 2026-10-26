@@ -1,4 +1,5 @@
 # Diogenes Database Intelligence, SQL Engine & Schema Guard MCP
+[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-stand-out-of-my-sun-diogenes-database-intelligence-mcp-a4a420cb/badge.svg)](https://www.tensorblock.co/mcp/servers/github-stand-out-of-my-sun-diogenes-database-intelligence-mcp-a4a420cb?client=cursor)
 
 [![Glama MCP Server Score](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-database-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-database-intelligence-mcp)
 [![Smithery](https://smithery.ai/badge/@stand-out-of-my-sun/diogenes-database-intelligence-mcp)](https://smithery.ai/server/@stand-out-of-my-sun/diogenes-database-intelligence-mcp)
