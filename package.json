@@ -1,6 +1,6 @@
 {
   "name": "@stand-out-of-my-sun/diogenes-database-intelligence-mcp",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "12 deterministic database intelligence, AST SQL & schema reliability tools: natural language to SQL synthesizer, AST SQL injection & tautology auditor, query plan EXPLAIN optimizer, breaking schema migration differ, polyglot SQL transpiler (PostgreSQL/MySQL/SQLite), composite B-tree index advisor, relational 3NF/BCNF normalization validator, SQL telemetry PII scrubber, relational mock seed fixture generator, connection pool headroom calculator, transaction isolation hazard auditor, and ORM model compiler (Prisma/Drizzle/Zod).",
   "license": "MIT",
   "author": "@stand-out-of-my-sun",
@@ -17,7 +17,7 @@
     "diogenes-database-intelligence-mcp": "index.js"
   },
   "scripts": {
-    "test": "node --test test/*.test.mjs"
+    "start": "node index.js"
   },
   "keywords": [
     "mcp",
@@ -25,24 +25,16 @@
     "database",
     "sql",
     "nl-to-sql",
-    "sql-injection",
-    "ast-audit",
-    "explain-plan",
-    "database-indexes",
+    "ast-parser",
+    "query-optimizer",
     "schema-migrations",
-    "transpiler",
     "orm",
     "prisma",
-    "drizzle",
-    "normalization",
-    "connection-pool",
+    "streamable-http",
     "glama",
     "tensorblock",
     "l402",
-    "x402",
-    "mpp",
-    "streamable-http",
-    "ai-agents"
+    "x402"
   ],
   "mcp": {
     "serverId": "io.github.stand-out-of-my-sun/diogenes-database-intelligence",
@@ -55,9 +47,5 @@
     "installConfidence": "high",
     "verification": "verified",
     "toolsCount": 12
-  },
-  "type": "module",
-  "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.6.0"
   }
 }
