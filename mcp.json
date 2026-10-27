@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "database-intelligence": {
+    "diogenes-database-intelligence": {
       "transport": "streamable-http",
       "url": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/database-intelligence",
       "auth": "none",
