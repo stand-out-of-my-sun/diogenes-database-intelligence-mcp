@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.stand-out-of-my-sun/diogenes-database-intelligence",
-  "description": "12 deterministic database intelligence, AST SQL & schema reliability tools: natural language to SQL synthesizer, AST SQL injection & tautology auditor, query plan EXPLAIN optimizer, breaking schema mi",
+  "description": "12 deterministic database & SQL tools: NL-to-SQL synthesizer, AST SQL injection auditor, EXPLAIN optimizer, breaking migration differ, SQL dialect transpiler, index advisor, and ORM compiler.",
   "version": "1.4.0",
   "license": "MIT",
   "maintainer": "@stand-out-of-my-sun",
