@@ -72,7 +72,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "audit_sql_injection_ast",
@@ -137,7 +138,13 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "free_tier": true,
+    "price_sats": 0,
+    "priceSats": 0,
+    "price_usd": 0.0,
+    "price": "Free Developer Tier (0 sats)",
+    "protocol": "Free"
   },
   {
     "name": "analyze_query_plan",
@@ -197,7 +204,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "detect_breaking_migrations",
@@ -263,7 +271,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "transpile_sql_dialect",
@@ -330,7 +339,10 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price_sats": 0,
+    "price": "Free Developer Tier (0 sats)",
+    "protocol": "Free"
   },
   {
     "name": "recommend_database_indexes",
@@ -390,7 +402,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "validate_schema_normalization",
@@ -455,7 +468,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "sanitize_sql_telemetry",
@@ -515,7 +529,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "synthesize_seed_fixtures",
@@ -575,7 +590,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "calculate_pool_headroom",
@@ -641,7 +657,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "audit_transaction_isolation",
@@ -706,7 +723,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "generate_orm_models",
@@ -767,6 +785,7 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   }
 ]
